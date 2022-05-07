@@ -1,5 +1,4 @@
-﻿{
-   "Datos": [
+[
                         {
                             "Agno": 2013,
                             "Periodo": "Trimestre 4",
@@ -73,4 +72,3 @@
                             "Notas": ""
                         }
                     ]
-                }
