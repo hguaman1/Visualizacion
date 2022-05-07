@@ -1,0 +1,97 @@
+﻿{
+    "Url": "www.epdata.es/evolucion-crimen-espana/2680b4ad-d61b-4da8-af5e-d7717583cc11",
+    "Respuesta": {
+        "Id": "2680b4ad-d61b-4da8-af5e-d7717583cc11",
+        "Url": "www.epdata.es/evolucion-crimen-espana/2680b4ad-d61b-4da8-af5e-d7717583cc11",
+        "Titulo": "Evolución del crimen en España",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Infracciones penales registradas a nivel trimestral - Número de infracciones penales registradas en lo que va de año para total como tipo de delito registrado y España como país",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Ministerio del Interior",
+                    "Clasificacion": null,
+                    "Unidad": "Número de infracciones penales registradas en lo que va de año",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2172133,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2092040,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2036815,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2009690,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2045787,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2131118,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2199475,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 1766779,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 1957719,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
